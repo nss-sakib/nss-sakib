@@ -28,12 +28,13 @@
 
 <br/>
 <br />
+<br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nss-sakib&show_icons=true&theme=dark)
 
 <br />
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nss-sakib&card_width=550&show_icons=true&theme=dark)](https://github.com/nss-sakib/nss-sakib)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=nss-sakib&show_icons=true&theme=dark)](https://github.com/nss-sakib/nss-sakib)
 
 [website]: https://nss-sakib.web.app
 [linkedin]: https://linkedin.com/in/nss-sakib
